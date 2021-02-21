@@ -1,0 +1,6 @@
+method1/node_modules
+method2/node_modules
+method1/build
+method2/build
+
+.DS_Store

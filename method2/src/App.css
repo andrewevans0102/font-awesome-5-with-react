@@ -1,0 +1,63 @@
+main {
+  text-align: center;
+}
+
+.first-component {
+  text-align: center;
+  /* margin: 20px; */
+  padding: 50px;
+  border: solid;
+  background-color: blue;
+}
+
+.first-component > div {
+  margin: 20px;
+  color: pink;
+  font-size: 20px;
+}
+
+.first-component > .first-icon {
+  margin: 10px;
+  color: white;
+}
+
+.second-component {
+  text-align: center;
+  /* margin: 20px; */
+  padding: 50px;
+  border: solid;
+  background-color: green;
+}
+
+.second-component > .second-icon {
+  margin: 10px;
+  color: white;
+}
+
+.second-styled {
+  margin: 20px;
+  /* color: blue; */
+  font-size: 20px;
+  color: white;
+}
+
+.second-spin {
+  margin: 20px;
+  /* color: blue; */
+  font-size: 20px;
+  color: blue;
+}
+
+.second-pulse {
+  margin: 20px;
+  /* color: blue; */
+  font-size: 20px;
+  color: orange;
+}
+
+.second-regular {
+  margin: 20px;
+  /* color: blue; */
+  font-size: 20px;
+  color: pink;
+}
